@@ -51,7 +51,7 @@ export function HomePage(props: HomePageProps) {
         </p>
         <div className="home-conway-hero-cta">
           <Link className="ga-btn home-conway-main-btn" to="/map">
-            {t('开始进入小镇', 'Enter Town')}
+            {t('开始进入小镇', 'Enter Land')}
           </Link>
           <Link className="ga-btn home-conway-sub-btn" to="/whitepaper">
             {t('查看玩法文档', 'Read Guide')}
