@@ -41,7 +41,7 @@ export function HomePage(props: HomePageProps) {
           <span className="ga-chip">{t('Conway 模式', 'Conway Mode')}</span>
           <span className="ga-chip">{t('地图 · 合约 · Agent', 'Map · Contract · Agent')}</span>
         </div>
-        <h1>BNBLand / Conway</h1>
+        <h1>BNBLand</h1>
         <h3>CA: 7777</h3>
         <p>
           {t(
