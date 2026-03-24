@@ -1,6 +1,6 @@
-# Generative Agents TS (Claw Town)
+# Generative Agents TS (BNBLand)
 
-This project is a TypeScript + React + Vite rewrite of **Generative Agents / Claw Town**.
+This project is a TypeScript + React + Vite rewrite of **Generative Agents / BNBLand**.
 
 Goals:
 - A browser-runnable **minimal viable simulation (MVP)**
